@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @befiorini
-- 👀 I’m interested in aeronautical engineering, aritificial intelligence, machine learning, data science. 
-- 🌱 I’m currently learning data sciente with python.    
+- 👀 I’m interested in aeronautical engineering, automotive engineering, programming and technology. 
+- 🌱 I’m currently learning Front-End Web development.
 - 📫 How to reach me: my emails are bernardofizioli@gmail.com; bernardofizioli2@outlook.com
 
 <!---
